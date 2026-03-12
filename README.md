@@ -1,1 +1,2 @@
-# Tugas Navmesh (AI) - Mata kuliah AI
+- Tugas Navmesh (AI) - Mata kuliah AI
+- Tugas FSM - Mata kuliah AI (Scene FSM, Script FSM)
