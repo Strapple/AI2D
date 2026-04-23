@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74df2bd3f1a380d45b8252495c0fe843, type: 3}
+  m_Name: New Chase State SO
+  m_EditorClassIdentifier: 
+  idleState: {fileID: 11400000, guid: 1dc2e6859e636f34e98eae41dc3b1faf, type: 2}
+  attackState: {fileID: 11400000, guid: bb0bc3eb889c7a5479ff0ad2825489b6, type: 2}
